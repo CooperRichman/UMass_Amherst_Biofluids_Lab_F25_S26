@@ -1,0 +1,2 @@
+# Not allowing any raw data, as it is typically quite large and would not be allowed to be stored in a regular GitHub repo
+Data/.nd2 Files
