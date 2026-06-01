@@ -46,7 +46,7 @@ Raw microscopy files from the NIS-Elements imaging system. This is not seen here
 
 > `ChannelFITC,TD_Seq0001-001.nd2`
 
-**Note:** `.nd2` files are listed in `.gitignore` and are not tracked by Git because their file sizes are too large for version control. The filenames are documented here for reference. To reproduce results, create the `.nd2 Files` folder, and place the `.nd2` files in this directory before running any notebooks that reference them.
+**Note:** `.nd2` files are listed in `.gitignore` and are not tracked by Git because their file sizes are too large for version control. The filenames are documented here for reference. To reproduce results, create the `Data/.nd2 Files` folder, and place the `.nd2` files in this directory before running any notebooks that reference them.
 
 #### `Data/.tif Files/Makeshift Data`
 Manually prepared binary TIFF stacks used for early testing and development. Provided in both black-on-white and white-on-black polarity variants.
